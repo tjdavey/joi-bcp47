@@ -1,6 +1,6 @@
 {
   "name": "joi-bcp47",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "BCP47 language tag validation for Joi.",
   "keywords": [
     "joi",
