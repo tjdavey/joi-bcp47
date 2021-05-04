@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/tjdavey/joi-bcp47/badge.svg)](https://coveralls.io/github/tjdavey/joi-bcp47)
 [![Known Vulnerabilities](https://snyk.io/test/github/tjdavey/joi-bcp47/badge.svg?targetFile=package.json)](https://snyk.io/test/github/tjdavey/joi-bcp47?targetFile=package.json)
 [![npm version](https://badge.fury.io/js/joi-bcp47.svg)](https://badge.fury.io/js/joi-bcp47)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftjdavey%2Fjoi-bcp47.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftjdavey%2Fjoi-bcp47?ref=badge_shield)
 
 Provides a Joi rule to validate and parse BCP47 language tags (eg. `en-US`, `ur-PK`, `zh-Hant-TW`). 
 
@@ -59,3 +60,7 @@ Joi.bcp47().parse().validate('hy-Latn-IT-arevela');
     }
 */
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftjdavey%2Fjoi-bcp47.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftjdavey%2Fjoi-bcp47?ref=badge_large)
